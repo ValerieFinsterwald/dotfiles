@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = finsterwald.valerie@gmail.com
+	name = Valerie Finsterwald
